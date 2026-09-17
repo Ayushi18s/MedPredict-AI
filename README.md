@@ -258,20 +258,6 @@ The BI module demonstrates hospital analytics including:
 
 ---
 
-## 📚 Dataset
-
-The machine-learning demonstration uses the publicly available:
-
-**UCI Diabetes 130-US Hospitals for Years 1999–2008 Dataset**
-
-The dataset contains approximately **101,766 patient records** and is used for educational and analytical purposes.
-
-Dataset source:
-
-https://archive.ics.uci.edu/
-
----
-
 ## ⚠️ Data & Clinical Disclaimer
 
 **MedPredict AI is an educational and portfolio demonstration project.**
