@@ -125,3 +125,6 @@ Random Forest Model
 Risk Prediction
         ↓
 Clinical Analytics & Visualization
+
+## 🧰 Technology Stack
+
